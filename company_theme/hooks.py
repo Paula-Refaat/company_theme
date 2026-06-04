@@ -5,5 +5,3 @@ app_description = "Custom Theme"
 app_version = "0.0.1"
 app_email = "info@yourcompany.com"
 app_license = "MIT"
-
-app_include_css = ["/assets/company_theme/css/custom.css"]
